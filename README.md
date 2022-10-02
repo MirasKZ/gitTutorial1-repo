@@ -1,7 +1,7 @@
-#Tutorial on github
+# Learning github
 
 
 
 
 
-%description is just following the tutorial 
+I am following some tutorial on git 
